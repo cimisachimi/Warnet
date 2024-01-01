@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Warnet Pratama", "Percobaan2\Warnet Pratama.csproj", "{EE0269FC-6156-4CA8-A342-403B7E7F49AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		DefaultBuild|Any CPU = DefaultBuild|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0269FC-6156-4CA8-A342-403B7E7F49AD}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0269FC-6156-4CA8-A342-403B7E7F49AD}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{EE0269FC-6156-4CA8-A342-403B7E7F49AD}.DefaultBuild|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0269FC-6156-4CA8-A342-403B7E7F49AD}.DefaultBuild|Any CPU.Build.0 = Debug|Any CPU
+		{EE0269FC-6156-4CA8-A342-403B7E7F49AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0269FC-6156-4CA8-A342-403B7E7F49AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D63DF7A2-4FF8-4B6F-AE1C-1A6359819984}
+	EndGlobalSection
+EndGlobal

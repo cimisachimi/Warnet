@@ -1,0 +1,49 @@
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Warnet Pratama.exe
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Warnet Pratama.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Warnet Pratama.deps.json
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Warnet Pratama.runtimeconfig.json
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Warnet Pratama.pdb
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\BouncyCastle.Cryptography.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Google.Protobuf.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\K4os.Compression.LZ4.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\K4os.Compression.LZ4.Streams.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\K4os.Hash.xxHash.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Bcl.HashCode.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Extensions.Configuration.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Extensions.Logging.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Extensions.Options.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\Microsoft.Extensions.Primitives.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\MySql.Data.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\MySql.Data.EntityFrameworkCore.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\NuGet.Frameworks.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\System.Data.SQLite.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\System.IO.Pipelines.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\System.Text.Encodings.Web.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\System.Text.Json.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\ZstdSharp.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\comerr64.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Fatur\Downloads\fatur\WarnetGakJelas-main\Percobaan2\bin\Release\net6.0-windows\publish\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
